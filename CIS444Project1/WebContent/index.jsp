@@ -6,7 +6,7 @@
 		<link rel='stylesheet' href='css/main.css' />
 	</head>
 	<body>
-	<!-- top navigation bar with pic and status Hello world!-->
+	<!-- top navigation bar with pic and status -->
 		<header>
 			<div id = "content"><img src="images/logofinal.png"class="navbar_image"></div>
 			<div> 
