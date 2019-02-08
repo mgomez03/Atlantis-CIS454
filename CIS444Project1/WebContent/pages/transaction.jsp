@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Transaction</title>
 </head>
 <body>
-
+	<h1>You will be making a purchase here</h1>
 </body>
 </html>
