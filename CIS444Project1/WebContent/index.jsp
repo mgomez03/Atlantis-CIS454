@@ -5,7 +5,6 @@
 		<title>BookSeller</title>
 		<link rel='stylesheet' href='css/main.css' />
 	</head>
-	<!-- April -->
 	<body>
 	<!-- top navigation bar with pic and status -->
 		<header>
