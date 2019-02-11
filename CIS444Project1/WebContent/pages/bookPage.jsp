@@ -6,11 +6,6 @@
 <title>Book-Zach</title>
 <link rel='stylesheet' href='../css/bookPage.css' />
 <style>
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 15px;
-}
 
 
 </style>
@@ -47,6 +42,7 @@
 	<!-- Pane One -->
 	
 <!-- things needed: title, image, price(SELLER), ISBN, Author, Publisher, Edition, Description -->
+
 	<div class="column">
 	<h3>Title</h3>
 	<h3>Author</h3>
@@ -54,11 +50,11 @@
     </div>
   
   <div class="column">
-    <h2>Edition</h2>
+    <h3>Edition</h3>
     <h3>ISBN number</h3>
     <h3>Publisher</h3>
     <p>Short description of the book</p>
-    <button>Click to purchase book</button>
+    <a class="button" href="../pages/checkOut.jsp" style="vertical-align:middle"><span>Click to purchase book</span></a>
   </div>
 	
 </body>
