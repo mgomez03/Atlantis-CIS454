@@ -54,7 +54,7 @@
 			</div>
 
 	    	<div>
-	    		<textarea class="form-control" cols="30" rows="3" placeholder="Discretion"></textarea>
+	    		<textarea class="form-control" cols="30" rows="3" placeholder="Description"></textarea>
 	    	</div>
 
 	    	<label><input type="checkbox"><span>I agree to the terms of service</span></label><br>
