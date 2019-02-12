@@ -6,7 +6,7 @@
 		<link rel='stylesheet' href='css/main.css' />
 	</head>
 	<body>
-	<!-- top navigation bar with pic and status Hello world!-->
+	<!-- top navigation bar with pic and status -->
 		<header>
 			<div id = "content"><img src="images/logofinal.png"class="navbar_image"></div>
 			<div> 
@@ -17,7 +17,7 @@
 					 <button class="dropbtnAcct">My Account</button>
 					  <div class="dropdownAcct-content">
 					    <a href="pages/profile.jsp">Profile</a>
-					    <a href="pages/shoppingCart">Shopping Cart</a>
+					    <a href="pages/shoppingCart.jsp">Shopping Cart</a>
 					  </div>
 					</div>
 				</div>
@@ -29,8 +29,8 @@
 	<nav style="position: sticky; position: -webkit-sticky;">
 		<ul>
 			<li><a href="#" class="active">Home</a></li>
-			<li><a href="pages/search">Search</a></li>
-			<li><a href="pages/sellBook">Sell Books</a></li>
+			<li><a href="pages/search.jsp">Search</a></li>
+			<li><a href="pages/sellBook.jsp">Sell Books</a></li>
 		</ul>
 	</nav>
 	</div>
